@@ -9,4 +9,4 @@ You may need to configure your settings.json file for the proper working of Esli
 
 ```
 
-If you like the repository, feel free to give it a star.
+If you like this repository, feel free to give it a star.
